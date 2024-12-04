@@ -11,5 +11,3 @@ Student Info
 
 * Student Name: Nguyen Canh Viet
 * Student ID: 23BI14449
-
-First Student Commit     
